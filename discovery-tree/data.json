@@ -1,0 +1,78 @@
+[
+  {
+    "id": "8ae8a318-c8c0-48bd-ad7e-20927840753a",
+    "thumbnail": "http://dummyimage.com/200x300.png/cc0000/ffffff",
+    "content_type": "article",
+    "content_description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "categories": [
+      {
+        "id": "c-bondage",
+        "type": "category",
+        "title": "bondage",
+        "progression_level": "novice",
+        "related_entities": []
+      }
+    ],
+    "dimensions": [{ "id": "d-cuffs", "type": "dimension", "title": "cuffs" }],
+    "content_title": "Technique 1",
+    "author": "Xaviera Order"
+  },
+  {
+    "id": "525ad57f-3418-4880-a0e6-f081ecfc65df",
+    "thumbnail": "http://dummyimage.com/200x300.png/ff4444/ffffff",
+    "content_type": "video",
+    "content_description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "categories": [
+      {
+        "id": "c-bondage",
+        "type": "category",
+        "title": "bondage",
+        "progression_level": "intermediate",
+        "related_entities": []
+      }
+    ],
+    "dimensions": [{ "id": "d-rope", "type": "dimension", "title": "rope" }],
+    "content_title": "Technique 2",
+    "author": "Kimberly Crocombe"
+  },
+  {
+    "id": "652da81e-7208-499e-a1dc-37ce027e018d",
+    "thumbnail": "http://dummyimage.com/200x300.png/cc0000/ffffff",
+    "content_type": "article",
+    "content_description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "categories": [
+      {
+        "id": "c-impact",
+        "type": "category",
+        "title": "impact",
+        "progression_level": "novice",
+        "related_entities": []
+      }
+    ],
+    "dimensions": [
+      { "id": "d-slapping", "type": "dimension", "title": "slapping" }
+    ],
+    "content_title": "Technique 1",
+    "author": "Xaviera Order"
+  },
+  {
+    "id": "3c162b9f-a100-4428-a213-9d5104efa755",
+    "thumbnail": "http://dummyimage.com/200x300.png/ff4444/ffffff",
+    "content_type": "video",
+    "content_description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "categories": [
+      {
+        "id": "c-impact",
+        "type": "category",
+        "title": "impact",
+        "progression_level": "novice",
+        "related_entities": []
+      }
+    ],
+    "dimensions": [
+      { "id": "d-slapping", "type": "dimension", "title": "slapping" }
+    ],
+    "content_title": "Technique 2",
+    "author": "Kimberly Crocombe"
+  }
+]

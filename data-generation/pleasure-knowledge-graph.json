@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "category",
+    "title": "BDSM",
+    "related_entities": [],
+    "parent_entity": null
+  },
+  {
+    "id": 2,
+    "type": "dimension",
+    "title": "Aftercare",
+    "related_entities": [],
+    "parent_entity": 1
+  },
+  {
+    "id": 3,
+    "type": "dimension",
+    "title": "Bondage",
+    "related_entities": [4],
+    "parent_entity": 1
+  },
+  {
+    "id": 4,
+    "type": "dimension",
+    "title": "Collared",
+    "related_entities": [3],
+    "parent_entity": 1
+  },
+  {
+    "id": 5,
+    "type": "dimension",
+    "title": "DDLG",
+    "related_entities": [3, 4],
+    "parent_entity": 1
+  },
+  {
+    "id": 6,
+    "type": "category",
+    "title": "Massage",
+    "related_entities": [7],
+    "parent_entity": null
+  },
+  {
+    "id": 7,
+    "type": "dimension",
+    "title": "tattoo",
+    "related_entities": [1, 3, 6],
+    "parent_entity": null
+  },
+  {
+    "id": 8,
+    "type": "dimension",
+    "title": "real couple",
+    "related_entities": [1, 2, 3, 4, 5, 6],
+    "parent_entity": null
+  }
+]
